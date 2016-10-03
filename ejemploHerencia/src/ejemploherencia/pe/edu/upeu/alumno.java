@@ -1,5 +1,6 @@
 package ejemploherencia.pe.edu.upeu;
 
+//Clase Alumno
 public class alumno extends persona {
 	private int curso;
 	private int nivelAcademico;
